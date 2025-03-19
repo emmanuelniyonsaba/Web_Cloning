@@ -1,0 +1,19 @@
+.nav1{
+    background-color: blue;
+    display: flex;
+    justify-content: space-between;
+
+
+}
+.list1 ul li a{ 
+    color: white;
+
+}
+.list1 ul {
+    display: flex;
+    list-style: none;
+    gap: 2em;
+  list-style: none;
+  text-decoration: none;
+
+}
